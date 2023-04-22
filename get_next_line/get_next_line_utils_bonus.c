@@ -12,14 +12,14 @@
 
 #include "get_next_line_bonus.h"
 
-int	ft_findlen(char *str, int nl, int end)
+int	ft_checklen(char *str, int nflag, int end)
 {
 	int	i;
 
 	i = 0;
 	while (str[i] != '\0' && str[i] != '\n')
 		i++;
-	if (str[i] == '\n' && nl)
+	if (str[i] == '\n' && nflag)
 		return (i);
 	while (str[i] != '\0')
 		i++;
@@ -50,19 +50,19 @@ int	ft_strnode(t_list *node, char *buff, int byte)
 	result[len + byte] = '\0';
 	free(node->str);
 	node->str = result;
-	return (ft_findlen(node->str, 1, 0));
+	return (ft_checklen(node->str, 1, 0));
 }
 
-char	*ft_substr(char *str, int start, int len, int nl)
+char	*ft_substr(char *str, int start, int len, int nflag)
 {
 	int		i;
 	char	*result;
 
 	i = 0;
-	result = (char *)malloc(len + nl + 1);
+	result = (char *)malloc(len + nflag + 1);
 	if (!result)
 		return (NULL);
-	while (i < len + nl)
+	while (i < len + nflag)
 	{
 		result[i] = str[start + i];
 		i++;
@@ -73,22 +73,22 @@ char	*ft_substr(char *str, int start, int len, int nl)
 
 char	*ft_newline(t_list *node)
 {
-	int		nl;
+	int		nflag;
 	int		end;
 	char	*before;
 	char	*after;
 
-	nl = ft_findlen(node->str, 1, 0);
-	end = ft_findlen(node->str, 0, 1);
-	if (end - nl == 1 || nl < 0)
+	nflag = ft_checklen(node->str, 1, 0);
+	end = ft_checklen(node->str, 0, 1);
+	if (end - nflag == 1 || nflag < 0)
 	{
 		before = ft_substr(node->str, 0, end, 0);
 		after = NULL;
 	}
 	else
 	{
-		before = ft_substr(node->str, 0, nl, 1);
-		after = ft_substr(node->str, nl + 1, end - nl - 1, 0);
+		before = ft_substr(node->str, 0, nflag, 1);
+		after = ft_substr(node->str, nflag + 1, end - nflag - 1, 0);
 		if (!after)
 			return (NULL);
 	}

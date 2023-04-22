@@ -28,9 +28,9 @@ t_list	*ft_lstnew(int fd)
 t_list	*ft_findlst(t_list **lst, int fd)
 {
 	t_list	*find;
-	t_list	*ini;
+	t_list	*org;
 
-	ini = *lst;
+	org = *lst;
 	if (!*lst)
 	{
 		*lst = ft_lstnew(fd);
@@ -47,11 +47,11 @@ t_list	*ft_findlst(t_list **lst, int fd)
 		find = ft_lstnew(fd);
 		(*lst)->next = find;
 	}
-	*lst = ini;
+	*lst = org;
 	return (find);
 }
 
-void	ft_free(t_list *node, int self, int str)
+void	ft_free(t_list *node, int single, int str)
 {
 	if (node)
 	{
@@ -60,7 +60,7 @@ void	ft_free(t_list *node, int self, int str)
 			free(node->str);
 			node->str = NULL;
 		}
-		if (self)
+		if (single)
 		{
 			free(node);
 			node = NULL;
@@ -72,9 +72,9 @@ void	ft_delnode(t_list **lst, t_list *node)
 {
 	t_list	*prev;
 	t_list	*find;
-	t_list	*ini;
+	t_list	*org;
 
-	ini = *lst;
+	org = *lst;
 	prev = *lst;
 	while (prev->next != node && prev != node)
 		prev = prev->next;
@@ -88,7 +88,7 @@ void	ft_delnode(t_list **lst, t_list *node)
 		find = prev->next;
 		prev->next = find->next;
 		ft_free(find, 1, 1);
-		(*lst) = ini;
+		(*lst) = org;
 	}
 }
 
