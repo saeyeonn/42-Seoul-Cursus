@@ -39,7 +39,7 @@
 
 <br><br>
 
-<table border="1" align="center">
+<table align="center">
 
 <tr align="center">
 	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/ft_printf"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/ft_printfm.png?raw=true"></a></td>
@@ -70,7 +70,7 @@
     <hr>
 <br><br>
 
-<table border="1" align="center">
+<table align="center">
 
 <tr align="center">
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longn.png?raw=true"></a></td>
