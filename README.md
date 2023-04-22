@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="center">
-	<b><i>Click the icon to navigate to the folder for the assignment !<br/>
+	<b><i>Click the Icon to Move to the Folder for the Assignment !<br/>
 <br>
 
 <hr>
