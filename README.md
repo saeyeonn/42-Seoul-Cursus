@@ -2,60 +2,95 @@
 <h1><b><i>42 Seoul 8th Cardet (2022.11.07 ~ )</b></h1>
 <br>
 
-
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/stats?cursusId=21&coalitionId=88" alt="saelim's 42 stats" /></a>
+<br><br>
 
+<p align="center">
+	<b><i>Click the icon to navigate to the folder for the assignment !<br/>
 <br>
-<hr>
 
+<hr>
 <p align="center">
 	<b><i>"1st Circle"<br/>
 <hr>
-<br>
+<br><br>
 
-<a href="https://github.com/saeyeon0522/42_cursus/tree/main/libft"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/libftm.png?raw=true"></a>
-<br>
-<br>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2867989" alt="saelim's 42 Libft Score" /></a>
+<table border="1" align="center">
 
-<br>
-<br>
+<tr align="center">
+	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/libft"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/libftm.png?raw=true"></a></td>
+</tr>
 
+<tr align="center">
+	<td><a href="https://www.notion.so/Libft-Bonus-ad9dc6f77d55472c8fa7e4772e3a0395?pvs=4" style="color:#FFD700">Notion Link</td>
+</tr>
 
+<tr align="center">
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2867989" alt="saelim's 42 Libft Score"></a></td>
+</tr>
+</table>
+
+<br><br>
 
 <hr>
 <p align="center">
 	<b><i>"2nd Circle"<br/>
 <hr>
-<br>
-<br>
 
-<a href="https://github.com/saeyeon0522/42_cursus/tree/main/ft_printf"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/ft_printfm.png?raw=true"></a>
-<img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/born2berootm.png?raw=true"></a>
-<a href="https://github.com/saeyeon0522/42_cursus/tree/main/get_next_line"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/get_next_linee.png?raw=true"></a>
+<br><br>
 
-<br>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2924570" alt="saelim's 42 ft_printf Score" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2952479" alt="saelim's 42 Born2beroot Score" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 get_next_line Score" /></a>
-<br>
-<br>
-<br>
+<table border="1" align="center">
+
+<tr align="center">
+	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/ft_printf"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/ft_printfm.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/born2berootm.png?raw=true"></a></td>
+	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/get_next_line"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/get_next_linee.png?raw=true"></a></td>
+</tr>
+
+<tr align="center">
+	<td><a href="https://www.notion.so/ft_printf-2abfeda52f0b421c8c55d5e16f37de34?pvs=4" style="color:#FFD700">Notion Link</td>
+	<td><a href="https://www.notion.so/born2beroot-418b409fd61d486d812a5ea029f15799?pvs=4" style="color:#FFD700">Notion Link</td>
+	<td><a href="https://www.notion.so/get_next_line-Bonus-d70701c8741949babe26c2c89172b831?pvs=4" style="color:#FFD700">Notion Link</td>
+</tr>
+
+<tr align="center">
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2924570" alt="saelim's 42 ft_printf Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2952479" alt="saelim's 42 Born2beroot Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 get_next_line Score" /></a></td>
+</tr>
+
+</table>
+
+<br><br><br>
 
 
 <hr>
 <p align="center">
 	<b><i>"3rd Circle"<br/>
     <hr>
-<br>
-<br>
+<br><br>
 
-<img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longn.png?raw=true">
-<img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swapn.png?raw=true">
-<img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalkn.png?raw=true">
+<table border="1" align="center">
 
+<tr align="center">
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longn.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swapn.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalkn.png?raw=true"></td>
+</tr>
 
+<tr align="center">
+	<td>Notion Link</td>
+	<td>Notion Link</td>
+	<td>Notion Link</td>
+</tr>
 
+<tr align="center">
+	<td>Not Yet Registered</td>
+	<td>Not Yet Registered</td>
+	<td>Not Yet Registered</td>
+</tr>
+
+</table>
 
 
 
