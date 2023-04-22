@@ -15,7 +15,7 @@
 <hr>
 <br><br>
 
-<table border="1" align="center">
+<table border="1px" align="center">
 
 <tr align="center">
 	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/libft"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/libftm.png?raw=true"></a></td>
