@@ -66,20 +66,37 @@
 - ##### You can have one global variable per program (one for the client and one for the server), but you will have to justify their use.
 
 - ##### In order to complete the mandatory part, you are allowed to use the following functions:
-◦ write
-◦ ft_printf and any equivalent YOU coded
-◦ signal
-◦ sigemptyset
-◦ sigaddset
-◦ sigaction
-◦ kill
-◦ getpid
-◦ malloc
-◦ free
-◦ pause
-◦ sleep
-◦ usleep
-◦ exit
+
+> <br>
+> ◦ write
+> <br>
+> ◦ ft_printf and any equivalent YOU coded
+> <br>
+> ◦ signal
+> <br>
+> ◦ sigemptyset
+> <br>
+> ◦ sigaddset
+> <br>
+> ◦ sigaction
+> <br>
+> ◦ kill
+> <br>
+> ◦ getpid
+> <br>
+> ◦ malloc
+> <br>
+> ◦ free
+> <br>
+> ◦ pause
+> <br>
+> ◦ sleep
+> <br>
+> ◦ usleep
+> <br>
+> ◦ exit
+> <br>
+> <br>
 
 <br>
 
@@ -94,8 +111,15 @@
 - ##### The server must be started first. After its launch, it has to print its PID.
 
 - ##### The client takes two parameters:
-◦ The server PID.
-◦ The string to send.
+
+> <br>
+> ◦ The server PID.
+> <br>
+> ◦ The string to send.
+> <br>
+> <br>
+
+<br>
 
 - ##### The client must send the string passed as a parameter to the server. Once the string has been received, the server must print it.
 
