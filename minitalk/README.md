@@ -18,7 +18,7 @@
 |    2    | [**Project instructions**](#Chapter-2)                     |
 |    3    | [**Mandatory Part**](#Chapter-3) |
 |    4    | [**Bonus part**](#Chapter-4)                     |
-                 |
+
 
 <br>
 
