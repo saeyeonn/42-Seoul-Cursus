@@ -68,7 +68,7 @@
 - ##### In order to complete the mandatory part, you are allowed to use the following functions:
 
   - `write`
-  - `ft_printf` 와 그에 관련된 **여러분이 작성한** 파일들
+  - `ft_printf` and your own files
   - `signal`
   - `sigemptyset`
   - `sigaddset`
@@ -97,12 +97,9 @@
 
 - ##### The client takes two parameters:
 
-> <br>
-> ◦ The server PID.
-> <br>
-> ◦ The string to send.
-> <br>
-> <br>
+ - `The server PID.`
+ - `The string to send.`
+
 
 <br>
 
