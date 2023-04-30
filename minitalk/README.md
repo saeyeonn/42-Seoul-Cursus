@@ -110,9 +110,7 @@
 <br>
 
 ><br>
-> 💡<br>
->
-> ##### 1 second for displaying 100 characters is way too much!
+> 💡 1 second for displaying 100 characters is way too much!
 ><br>
 
 <br>
@@ -126,9 +124,7 @@
 <br>
 
 ><br>
-> 💡<br>
->
-> ##### Linux system does NOT queue signals when you already have pending signals of this type! Bonus time?
+> 💡 Linux system does NOT queue signals when you already have pending signals of this type! Bonus time?
 ><br>
 
 
@@ -152,9 +148,7 @@
 <br>
 
 ><br>
-> 💡<br>
->
-> ##### The bonus part will only be assessed if the mandatory part is PERFECT. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all.
+> ##### 💡 The bonus part will only be assessed if the mandatory part is PERFECT. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all.
 ><br>
 
 <br>
