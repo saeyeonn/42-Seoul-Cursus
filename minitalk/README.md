@@ -67,36 +67,21 @@
 
 - ##### In order to complete the mandatory part, you are allowed to use the following functions:
 
-> <br>
-> ◦ write
-> <br>
-> ◦ ft_printf and any equivalent YOU coded
-> <br>
-> ◦ signal
-> <br>
-> ◦ sigemptyset
-> <br>
-> ◦ sigaddset
-> <br>
-> ◦ sigaction
-> <br>
-> ◦ kill
-> <br>
-> ◦ getpid
-> <br>
-> ◦ malloc
-> <br>
-> ◦ free
-> <br>
-> ◦ pause
-> <br>
-> ◦ sleep
-> <br>
-> ◦ usleep
-> <br>
-> ◦ exit
-> <br>
-> <br>
+  - `write`
+  - `ft_printf` 와 그에 관련된 **여러분이 작성한** 파일들
+  - `signal`
+  - `sigemptyset`
+  - `sigaddset`
+  - `sigaction`
+  - `kill`
+  - `getpid`
+  - `malloc`
+  - `free`
+  - `pause`
+  - `sleep`
+  - `usleep`
+  - `exit`
+
 
 <br>
 
