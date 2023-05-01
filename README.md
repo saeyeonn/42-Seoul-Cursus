@@ -73,9 +73,9 @@
 <table align="center">
 
 <tr align="center">
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longm.png?raw=true"></a></td>
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swapm.png?raw=true"></a></td>
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalkm.png?raw=true"></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longe.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swape.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalke.png?raw=true"></td>
 	<td>Exam Rank 02</td>
 </tr>
 
@@ -106,7 +106,7 @@
 <table align="center">
 
 <tr align="center">
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/philosophern.png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/philosophersn..png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minishelln.png?raw=true"></a></td>
 </tr>
 
