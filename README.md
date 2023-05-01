@@ -22,7 +22,7 @@
 </tr>
 
 <tr align="center">
-	<td><a href="https://www.notion.so/Libft-Bonus-ad9dc6f77d55472c8fa7e4772e3a0395?pvs=4" style="color:#FFD700">Notion Link</td>
+	<td><a href="https://www.notion.so/Libft-Bonus-ad9dc6f77d55472c8fa7e4772e3a0395?pvs=4"&fontColor=FFD700>Notion Link</td>
 </tr>
 
 <tr align="center">
@@ -44,7 +44,7 @@
 <tr align="center">
 	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/ft_printf"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/ft_printfm.png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/born2berootm.png?raw=true"></a></td>
-	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/get_next_line"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/get_next_linee.png?raw=true"></a></td>
+	<td><a href="https://github.com/saeyeon0522/42_cursus/tree/main/get_next_line"><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/get_next_linem.png?raw=true"></a></td>
 </tr>
 
 <tr align="center">
