@@ -34,7 +34,7 @@
 
 <hr>
 <p align="center">
-	<b><i>"1nd Circle"<br/>
+	<b><i>"1st Circle"<br/>
 <hr>
 
 <br><br>
@@ -87,7 +87,7 @@
 </tr>
 
 <tr align="center">
-	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 so_long Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081162" alt="saelim's 42 so_long Score" /></a></td>
 	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081164" alt="saelim's 42 push_swap Score" /></a></td>
 	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081163" alt="saelim's 42 minitalk Score" /></a></td>
 	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081165" alt="saelim's 42 Exam Rank 02 Score" /></a></td>
