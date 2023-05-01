@@ -76,9 +76,11 @@
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longm.png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swapm.png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalkm.png?raw=true"></td>
+	<td></td>
 </tr>
 
 <tr align="center">
+	<td>Notion Link</td>
 	<td>Notion Link</td>
 	<td>Notion Link</td>
 	<td>Notion Link</td>
@@ -86,8 +88,9 @@
 
 <tr align="center">
 	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 so_long Score" /></a></td>
-	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 push_swap Score" /></a></td>
-	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/2969059" alt="saelim's 42 minitalk Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081164" alt="saelim's 42 push_swap Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081163" alt="saelim's 42 minitalk Score" /></a></td>
+	<td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgr45o7g002108mksjfj3tuf/project/3081165" alt="saelim's 42 Exam Rank 02 Score" /></a></td>
 </tr>
 
 </table>
