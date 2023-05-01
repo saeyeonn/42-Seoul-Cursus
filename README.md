@@ -106,7 +106,7 @@
 <table align="center">
 
 <tr align="center">
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/philosophersn..png?raw=true"></a></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/philosophersn.png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minishelln.png?raw=true"></a></td>
 </tr>
 
