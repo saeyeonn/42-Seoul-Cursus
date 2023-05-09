@@ -62,19 +62,16 @@ int	main(int argc, char **argv)
 	int	i;
 
 	i = 0;
-	if (argc == 3)
+	if (argc != 3)
 	{
-		pid = ft_atoi(argv[1]);
-		while (argv[2][i] != '\0')
-		{
-			ft_atob(pid, argv[2][i]);
-			i++;
-		}
-	}
-	else
-	{
-		ft_printf("Error\n");
+		write(1,"Error\n", 6);
 		return (1);
+	}
+	pid = ft_atoi(argv[1]);
+	while (argv[2][i] != '\0')
+	{
+		ft_atob(pid, argv[2][i]);
+		i++;
 	}
 	return (0);
 }

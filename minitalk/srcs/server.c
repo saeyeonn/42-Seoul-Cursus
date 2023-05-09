@@ -12,6 +12,32 @@
 
 #include "../includes/minitalk.h"
 
+void	ft_putchar_fd(char c)
+{
+	write(1, &c, 1);
+}
+
+void	ft_putnbr(int nb)
+{
+	if (nb == -2147483648)
+	{
+		write(1, "-2", 2);
+		nb = 147483648;
+	}
+	if (nb < 0)
+	{
+		write(1, "-", 1);
+		nb *= -1;
+	}
+	if (nb < 10)
+		ft_putchar(nb + '0');
+	else
+	{
+		ft_putnbr(nb / 10);
+		ft_putchar(nb % 10 + '0');
+	}
+}
+
 void	ft_btoa(int sig)
 {
 	static int	bit;
@@ -22,7 +48,7 @@ void	ft_btoa(int sig)
 	bit++;
 	if (bit == 8)
 	{
-		ft_printf("%c", i);
+		ft_putnbr(i);
 		bit = 0;
 		i = 0;
 	}
@@ -35,16 +61,16 @@ int	main(int argc, char **argv)
 	(void)argv;
 	if (argc != 1)
 	{
-		ft_printf("Error\n");
+		write(1, "Error\n", 6);
 		return (1);
 	}
 	pid = getpid();
-	ft_printf("%d\n", pid);
+	ft_putnbr(pid);
 	while (argc == 1)
 	{
 		signal(SIGUSR1, ft_btoa);
 		signal(SIGUSR2, ft_btoa);
-		pause ();
+		pause();
 	}
 	return (0);
 }
