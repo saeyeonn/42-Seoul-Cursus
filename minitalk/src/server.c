@@ -12,7 +12,7 @@
 
 #include "../includes/minitalk.h"
 
-void	ft_putchar_fd(char c)
+void	ft_putchar(char c)
 {
 	write(1, &c, 1);
 }
@@ -38,17 +38,17 @@ void	ft_putnbr(int nb)
 	}
 }
 
-void	ft_btoa(int sig)
+void	ft_btoa(int sig) // always excuted : translate bits
 {
-	static int	bit;
-	static int	i;
+	static int	bit; // set bit location
+	static int	i; // collection of set bits
 
 	if (sig == SIGUSR1)
-		i |= (0x01 << bit);
+		i |= (0x01 << bit); // i's bit th bit = 1
 	bit++;
 	if (bit == 8)
 	{
-		ft_putnbr(i);
+		ft_putchar(i);
 		bit = 0;
 		i = 0;
 	}
@@ -68,8 +68,8 @@ int	main(int argc, char **argv)
 	ft_putnbr(pid);
 	while (argc == 1)
 	{
-		signal(SIGUSR1, ft_btoa);
-		signal(SIGUSR2, ft_btoa);
+		signal(SIGUSR1, ft_btoa); // enroll Signal Handler func.
+		signal(SIGUSR2, ft_btoa); // signal -> call enrolled func.
 		pause();
 	}
 	return (0);
