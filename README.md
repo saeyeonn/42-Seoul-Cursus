@@ -75,14 +75,14 @@
 <tr align="center">
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/so_longe.png?raw=true"></a></td>
 	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/push_swape.png?raw=true"></a></td>
-	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalke.png?raw=true"></td>
+	<td><img src="https://github.com/saeyeonn/42_cursus/blob/main/srcs/minitalkm.png?raw=true"></td>
 	<td>Exam Rank 02</td>
 </tr>
 
 <tr align="center">
 	<td>Notion Link</td>
 	<td>Notion Link</td>
-	<td>Notion Link</td>
+	<td><a href="https://www.notion.so/minitalk-24e958de1f1c48fd986887d030d5bc51?pvs=4">Notion Link</td>
 	<td>Notion Link</td>
 </tr>
 
