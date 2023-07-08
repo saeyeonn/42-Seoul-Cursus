@@ -1,0 +1,24 @@
+# Push Swap Tester made by Arkhavy | ljohnson@student.42lyon.fr
+# https://github.com/Arkhavy
+# This file will contain every fail you might have while running the tester, have fun !
+
+PARSING KO = "" 2 4 5 3
+PARSING KO = 2 4 "" 3 5
+PARSING KO = a 2 4 5 3
+PARSING KO = 2 4 a 5 3
+PARSING KO = 2147483648 2 4 5 3
+PARSING KO = -2147483649 2 4 5 3
+PARSING KO = 2 4 5 -2147483649 3
+PARSING KO = 2 4 5 2147483649 3
+PARSING KO = 2 2 4 5 3
+PARSING KO = 2 4 5 5 3
+PARSING KO = -0 0 2 4 5 3
+PARSING KO = 0 2 4 5 -0 3
+PARSING KO = 5 2 4 -5 0 -0 3
+PARSING KO = 0 0 0 0 0
+PARSING KO = 2 5 3 "4 62" 8
+PARSING KO = 7 5 "8 74" "6 42" 1 2
+PARSING KO = 0 -1 2 -3 4 5 -6 7 8 2147483648
+PARSING KO = 0 -1 2 -3 4 5 -6 7 8 2147483649
+PARSING KO = 2147483649 0 -1 2 -3 4 5 -6 7 8
+PARSING KO = 0 -1 2 -3 4 5 -6 7 8 9999999999999999999999990
