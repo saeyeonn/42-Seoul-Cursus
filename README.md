@@ -82,7 +82,6 @@
 	<td>Notion Link</td>
 	<td>Notion Link</td>
 	<td><a href="https://www.notion.so/minitalk-24e958de1f1c48fd986887d030d5bc51?pvs=4">Notion Link</td>
-	<td>Notion Link</td>
 </tr>
 
 <tr align="center">
